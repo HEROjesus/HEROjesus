@@ -19,7 +19,7 @@
 ---
 
 ### 🚀 Sobre Mim
-- 👨‍🚀 Em jornada para me tornar um **DEV T-shaped** ([saiba mais](https://www.alura.com.br/artigos/o-que-e-um-profissional-t-shaped))
+- 👨‍🚀 Em jornada para me tornar um **DEV T-shaped** ([saiba mais](https://www.alura.com.br/empresas/artigos/profissional-t-shaped?srsltid=AfmBOorky9sJHWT4jpgrKYRhwu7-3D-KlTdTfWFyn1v0SNI89WyvkgCO))
 - 🌱 Atualmente focado em: TypeScript, React e Next.js
 - 📚 Aprendizado contínuo em desenvolvimento Front-End
 - 🎯 Objetivo: Criar interfaces incríveis com UX excepcional
